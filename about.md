@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+
+The aim of this blog is to share what I am learning about this new, evolving and exciting language Swift.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am an engineer in a company dedicated to energy. I share my spare time between baroque music and software development. It means that I am not a software developper. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[kapsi@me.com](mailto:kapsi@me.com)
